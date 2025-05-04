@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "Which articles of the Constitution relate to the rights and ideas mentioned in the uploaded document?"
+  },
+  {
+    "role": "assistant",
+    "content": "Based on the provided information, the articles of the Constitution that relate to the rights and ideas mentioned in the uploaded document are Article 30. This article guarantees free secondary education in state educational establishments, makes secondary education compulsory, allows citizens to pursue higher education on a competitive basis in state institutions of higher education, provides for fee-paying education in private institutions on the grounds and manner prescribed by law, and sets uniform compulsory standards in education.\n\nIn essence, Article 30 outlines the government's commitment to ensuring that every citizen has access to free secondary education and the opportunity to pursue higher education without discrimination."
+  }
+]

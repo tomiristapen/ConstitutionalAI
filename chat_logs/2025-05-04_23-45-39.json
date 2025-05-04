@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "what is written in article 11"
+  },
+  {
+    "role": "assistant",
+    "content": "According to Article 11 of Kazakhstan's Constitution, there are two main points:\n\n1. A citizen of the Republic of Kazakhstan shall not be extradited to a foreign state, unless international treaties of the Republic provide otherwise.\n2. The Republic shall provide its citizens with protection and assistance outside its borders.\n\nThis article is repeated multiple times in the provided text, but the content remains the same."
+  }
+]
